@@ -1,4 +1,4 @@
-# 7c  Recursion:Sum of cube of Digits using Recursion in Python
+# 7c)   Recursion:Sum of cube of Digits using Recursion in Python
 
 ##  AIM:
 To write a Python program to calculate the **sum of cube of all digits** in a number using **recursion**.
